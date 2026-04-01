@@ -1,0 +1,2 @@
+Age,BMI,Children,Sex,Smoker,Region,Prediction,timestamp
+25,28.5,0,female,no,southeast,"Predicted Insurance Charge: $3,834.90",2026-04-01 08:41:49.960577
