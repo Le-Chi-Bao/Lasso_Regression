@@ -21,17 +21,17 @@ Máy tính cần cài sẵn:
 
 Mở **Anaconda Prompt** hoặc terminal trong **VS Code**, sau đó chạy:
 
-
 conda create -n lasso_regression_env python=3.13.5 -y
 
+---
 
 ## 3. Kích hoạt môi trường
 
----
 conda activate lasso_regression_env
 
-## 4. Cài đặt các thư viện trong requirements.txt
 ---
+
+## 4. Cài đặt các thư viện trong requirements.txt
 
 pip install -r requirements.txt
 
