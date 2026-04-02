@@ -4,8 +4,6 @@
 
 - **Lasso Regression thủ công**
 - **Lasso Regression sử dụng sklearn**
-- **So sánh 2 mô hình**
-- **Lưu lịch sử dự đoán**
 
 ---
 
